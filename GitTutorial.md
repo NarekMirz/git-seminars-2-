@@ -46,3 +46,4 @@
 
 * *git spoiler one* - первая команда
 
+* *git spoiler two* - вторая команда
